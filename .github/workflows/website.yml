@@ -1,4 +1,4 @@
-name: Website
+name: 2026-05-24-site-workshop-template_fork_Instructor
 on:
   push:
     branches:
